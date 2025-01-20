@@ -1,5 +1,5 @@
 ## Hi there 👋
-🙋‍♀️ This is the official hiddenchat repository
+🙋‍♀️ This is the official secp2pchat repository
 
 🌈 Contributions: You can download the source code directly and compile it into an apk for testing, as well as submit suggestions for new features and feedback on bugs.
 
